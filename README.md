@@ -23,7 +23,7 @@ __Please note:__ this library is not thread safe.
 
 ###Setup for gradle
 ```gradle
-  compile 'com.aetrion.flickr:flickrapi:1.1'
+  compile 'com.flickr4java:flickr4java:2.16'
   ```
 
 ### Development and contributing
